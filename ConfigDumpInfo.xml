@@ -26,7 +26,7 @@
 		<Metadata name="CommonForm.Форма.Form" id="8a1154ea-5d80-419a-ab18-11e0cfe67b60.0" configVersion="26e9b6fe6da66343ba0d0aa60109b69900000000"/>
 		<Metadata name="CommonModule.ОбщиеПроцедуры" id="9b8f3641-0bc8-4581-b04d-156c3db494ef" configVersion="0a631d7d61f873419526a6f0d99db83c00000000"/>
 		<Metadata name="CommonModule.ОбщиеПроцедуры.Module" id="9b8f3641-0bc8-4581-b04d-156c3db494ef.0" configVersion="385f7d5acd64dd46a3327a9bdecda22b00000000"/>
-		<Metadata name="Configuration.Семья" id="d4f6b64c-f1d2-42b4-b9c4-10bf3e676a40" configVersion="91aa94163a1fdf46bd96a45768b07ac800000000"/>
+		<Metadata name="Configuration.Семья" id="d4f6b64c-f1d2-42b4-b9c4-10bf3e676a40" configVersion="378b76bbe0c97b4b9571387bd8e921fe00000000"/>
 		<Metadata name="Configuration.Семья.HomePageWorkArea" id="3ea70d05-6eca-4b8f-828b-f6cc10f0dbe5.8" configVersion="8a2a00d2a7c2d5438a580288430ae4f300000000"/>
 		<Metadata name="Configuration.Семья.MainSectionCommandInterface" id="3ea70d05-6eca-4b8f-828b-f6cc10f0dbe5.9" configVersion="4ea060aca7314148bb46a805fb8f82f500000000"/>
 		<Metadata name="Configuration.Семья.Splash" id="3ea70d05-6eca-4b8f-828b-f6cc10f0dbe5.2" configVersion="e82c46d06762b04fbb64cc29aa4eaad300000000"/>
@@ -74,8 +74,8 @@
 			<Metadata name="Document.СписываниеБаланса.Attribute.РасчетныйПериод" id="493e962e-d19e-4c7a-bdf6-9eabc9119464"/>
 			<Metadata name="Document.СписываниеБаланса.Attribute.ОстатокБаланса" id="fa5b8001-36b0-47dd-822a-73cd60215f15"/>
 		</Metadata>
-		<Metadata name="Document.СписываниеБаланса.Form.ФормаДокумента" id="20c5516f-3c74-4b8b-8945-d546ba563913" configVersion="b6a059dfa0a4e648bd4a80f341b66b4c00000000"/>
-		<Metadata name="Document.СписываниеБаланса.Form.ФормаДокумента.Form" id="20c5516f-3c74-4b8b-8945-d546ba563913.0" configVersion="b39e86d82ec17947bbc6346936d7b33000000000"/>
+		<Metadata name="Document.СписываниеБаланса.Form.ФормаДокумента" id="20c5516f-3c74-4b8b-8945-d546ba563913" configVersion="66d924e9f6754d42a927eaf164a6a14d00000000"/>
+		<Metadata name="Document.СписываниеБаланса.Form.ФормаДокумента.Form" id="20c5516f-3c74-4b8b-8945-d546ba563913.0" configVersion="2bb72afc2a7d3a46825b7a839df03d4700000000"/>
 		<Metadata name="Document.СписываниеБаланса.ObjectModule" id="ac86b0d1-b571-4a62-8d72-d5595dd4d712.0" configVersion="7b9c5246ecbfb64bb63daf638c22f32900000000"/>
 		<Metadata name="Enum.ВидОперации" id="9cc7d10e-432f-4d69-bb13-d91f5c2a3694" configVersion="593a48cc0f0a9943850ae9e1ab13265a00000000">
 			<Metadata name="Enum.ВидОперации.EnumValue.Траты" id="1923ebc1-fa6e-4fb8-9cb7-409eb4a4471d"/>
